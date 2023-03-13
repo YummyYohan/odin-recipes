@@ -1,0 +1,24 @@
+.myDiv {
+    color:blueviolet;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+img {
+    height:auto;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+
+#kimchi-text {
+    color: rgb(255, 33, 17);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    font-weight: 300;
+    text-align: center;
+}
